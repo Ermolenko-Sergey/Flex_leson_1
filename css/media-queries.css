@@ -1,0 +1,196 @@
+
+@media only screen and (max-width: 767px) {
+    .block {
+        margin: 0 25px;
+    }
+    .program_row{
+        padding: 28px 0 26px 125px;
+    }
+    .program_items{
+        margin-right: 60px;
+    }
+    .content_items{
+        margin-left: 50px;
+    }
+}
+@media only screen and (max-width: 414px) {
+    .block {
+        margin: 0 10px;
+    }
+    .speakers{
+        padding: 10px 0;
+    }
+    .margin{
+        margin-bottom: 20px;
+    }
+    h5{
+        margin: 70px 0 0 24px;
+    }
+    h6{
+        width: 394px;
+        text-align: center;
+        margin: 0;
+    }
+    p{
+        width: 394px;
+        text-align: center;
+    }
+    .content:before{
+        top: 27px;
+        left: 70px;
+    }
+    .program_row{
+        padding: 18px 0 10px 0;
+        flex-wrap: wrap;
+    }
+    .time_2{
+        height: 50px;
+        width: 100%;
+    }
+    .program_items{
+        margin-right: auto;
+        flex: 0 1 0;
+    }
+    .marketing{
+        font-size: 20px;
+    }
+    .moderator{
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .content_row{
+        flex-wrap: wrap;
+        padding-bottom: 30px;
+    }
+    .content_items{
+        margin: 0 auto;
+    }
+    .content_items:last-child{
+        margin: 0 auto;
+    }
+    .block_grow{
+        max-width: 120px;
+    }
+    .last_name{
+        font-size: 22px;
+        line-height: 24px;
+        margin: 0 0 6px 0;
+    }
+    span{
+        margin: 0;
+        font-size: 14px;
+        line-height: 18px;
+    }
+}
+@media only screen and (max-width: 375px) {
+    h5{
+        margin: 70px 0 0 15px;
+    }
+    h6{
+        width: 355px;
+        text-align: center;
+        margin: 0;
+    }
+    p{
+        width: 355px;
+        text-align: center;
+    }
+
+    .marketing{
+        font-size: 18px;
+    }
+    .moderator{
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .name{
+        font-size: 15px;
+    }
+    .photo_2{
+        max-width: 100px;
+    }
+    .photo_2 img{
+        display: block;
+        width: 100%;
+    }
+    .block_grow{
+        max-width: 100px;
+    }
+}
+@media only screen and (max-width: 360px) {
+    h5{
+        margin: 70px 0 0 8px;
+    }
+    h6{
+        width: 340px;
+        text-align: center;
+        margin: 0;
+    }
+    p{
+        width: 340px;
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 320px) {
+    .block{
+        margin: 0 5px;
+    }
+    h1{
+        padding: 10px 0;
+    }
+    .time{
+        padding: 5px 0;
+    }
+    .photo{
+        flex: 0 0 170px;
+    }
+    h6{
+        width: 300px;
+        text-align: center;
+        margin: 0;
+    }
+    p{
+        width: 300px;
+        text-align: center;
+    }
+    .content:before{
+        width: 74%;
+    }
+    .marketing{
+        font-size: 16px;
+    }
+    .moderator{
+        font-size: 12px;
+        line-height: 25px;
+    }
+    .name{
+        font-size: 13px;
+    }
+    .photo_2{
+        max-width: 85px;
+    }
+    .photo_2 img{
+        display: block;
+        width: 100%;
+    }
+    .block_grow{
+        max-width: 85px;
+    }
+    .last_name{
+        font-size: 18px;
+    }
+    span{
+        margin: 0;
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .logo{
+        height: 170px;
+        width: 170px;
+    }
+    .logo img{
+        display: block;
+        width: 100%;
+    }
+}
+
